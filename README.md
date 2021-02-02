@@ -1,6 +1,6 @@
 <div  align="center">
     <h1>
-        <img  src="./assets/images/logo.svg"  width="300px"><br/>
+        <img  src="./images/BMI_Logo.svg"  width="250px"><br/>
     </h1>
     <h4>
         BMI Calculator é website que calcula o Indíce de Massa Corpórea do indíviduo.
