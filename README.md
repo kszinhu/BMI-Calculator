@@ -25,6 +25,7 @@ $ cd BMI-Calculator
 ```
 
 2. Ou entrar no link em que essa aplicação esta sendo hospedada(**GithubPages**):
+
 [BMI Calculator](https://kszinhu.github.io/BMI-Calculator/)
 
 ---
